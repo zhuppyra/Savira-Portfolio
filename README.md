@@ -10,7 +10,7 @@ Personal portfolio
 * All done using Phyton (Keras, Matplotlib, Pandas) in Google Colaboratory
 
 
-# Project 2: Employee Turnover Prediction Using KNN & ANN
+# [Project 2: Employee Turnover Prediction Using KNN & ANN](https://github.com/zhuppyra/K-Nearest-Neighbor)
 * Academic project
 * Developed a K-Nearest Neighbor (KNN) classification model in predicting employee turnover rate (open source data)
 * The data consisted of 14999 rows and 10 columns about employees, which was obtained from online open source platform
