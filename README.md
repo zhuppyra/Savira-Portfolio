@@ -1,7 +1,7 @@
 # Savira_Portfolio
 Personal portfolio
 
-# Project 1: Comparison Analysis of LSTM and GRU in Predicting Indonesia’s Strategic Commodities Price
+# [Project 1: Comparison Analysis of LSTM and GRU in Predicting Indonesia’s Strategic Commodities Price](https://github.com/zhuppyra/price_forecasting)
 * Thesis project
 * Timeline: January-August 2022
 * Compared two Recurrent Neural Network models, LSTM and GRU, in predicting daily price of Indonesia’s strategic commodities
